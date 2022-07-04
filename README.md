@@ -1,3 +1,15 @@
+This project is made with ReactJS along with Redux for state management.
+
+Material UI is chosen as a UI library of choice. 
+
+The primary focus of this web application is to showcase a simple e-commerce site with minimum features in it. 
+
+Updates are being rolled out! It won't be perfect yet, not going to be too rough either. 
+
+Thank you for passing by and checking my app out! 
+
+############################################################################################################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
